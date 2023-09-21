@@ -19,7 +19,7 @@
 |[Jiang et al.,2019]      |Cow  |FLYOLOv3   |90.83   
 |[Wu et al., 2020]      |Cow  |YOLOv3   |93.73       
 |[Kang et al., 2020]      |Cow  |RFB_Net_SSD   |87.0       
-|[Zheng et al., 2023]      |Cow  |91.7   |93.80   
+|[Zheng et al., 2023]      |Cow  |Siam-AM   |93.80   
 |[Feuser et al., 2022]      |Horse  |Key point detection   |-       
 |[Hu et al., 2023]      |Pig  |PointNet++   |91.48       
 |[Zheng et al., 2022]     |Chicken  |YOLOv5   |92.36       
