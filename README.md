@@ -25,7 +25,7 @@
 |[Zheng et al., 2022]     |Chicken  |YOLOv5   |92.36       
 |[**Ours**]      |**Chicken**  |**YOLO-Claw**   |**97.1**    
 
-* ### Comparison of the proposed algorithm with the state-of-the-art research
+* ### Performance under different lighting conditions
 <p>
    <img width="850" src="https://github.com/PuristWu/YOLO-Claw/assets/90194261/30d0799f-db74-4861-a6a9-6d40249b29ea">
 </p>
