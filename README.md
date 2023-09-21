@@ -4,8 +4,8 @@
    
    <img src="https://github.com/PuristWu/YOLO-Claw/blob/main/img/YOLO-Claw.gif"><br>
 #### Note:Due to file size limitations, the longer video demos can be viewed on the following platforms:
-#### YouTube: https://youtu.be/ge_p5XMRCA0
-#### Youku: 
+### [YouTube](https://youtu.be/ge_p5XMRCA0)
+### Youku: 
 
 ## <div align="center">Basic information about the manuscript</div>
 #### <div align="left">"Dihua Wu; Yibin Ying; Mingchuan Zhou; Jinming Pan and Di Cui. YOLO-Claw: Improved YOLOv5 based on TCA and AFPN for detecting chicken claws in commercial farms"</div>
@@ -33,9 +33,7 @@
 |[**Ours**]      |**Chicken**  |**YOLO-Claw**   |**97.1**    
 
 * ### <div align="left">Performance under different lighting conditions</div>
-<p>
    <img width="850" src="https://github.com/PuristWu/YOLO-Claw/assets/90194261/30d0799f-db74-4861-a6a9-6d40249b29ea">
-</p>
 
-- ### <div align="left">Notes</div>
-Since the software we developed is under application, the code of the source code of the peoposed YOLO-Claw will be released here after licensing.
+* ### <div align="left">Notes</div>
+<div align="left">Since the software we developed is under application, the code of the source code of the peoposed YOLO-Claw will be released here after licensing.</div>
