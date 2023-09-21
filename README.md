@@ -8,10 +8,10 @@
 #### Youku: 
 
 ## <div align="center">Basic information about the manuscript</div>
-#### "Dihua Wu; Yibin Ying; Mingchuan Zhou; Jinming Pan and Di Cui. YOLO-Claw: Improved YOLOv5 based on TCA and AFPN for detecting chicken claws in commercial farms"
+#### <div align="left">"Dihua Wu; Yibin Ying; Mingchuan Zhou; Jinming Pan and Di Cui. YOLO-Claw: Improved YOLOv5 based on TCA and AFPN for detecting chicken claws in commercial farms"</div>
 ## <div align="center">Important results</font></div>
 
-* ### Performance of different object detection algorithms for chicken claw detection
+* ### <div align="left">Performance of different object detection algorithms for chicken claw detection</div>
 |Algorithms |Precision<br>(%) |Recall<br>(%) |mAP<br>(%) |Speed<br>(ms/frame) |Model Size<br>(MB) |Calculations<br>(GFLOPs) |
 |---                    |---  |---    |---    |---    |---    |---    
 |[YOLOv5]      |95.2  |91.7   |96.6   |7.1 |14.1|15.8
@@ -20,7 +20,7 @@
 |[YOLOv8]     |95.0  |92.3   |96.3   |9.7    |21.4   |28.4    
 |[**YOLO-Claw(Ours)**]      |**95.3**  |**93.6**   |**97.1**   |**7.6**    |**12.1**   |**4.8**   
 
-* ### Comparison of the proposed algorithm with the state-of-the-art research
+* ### <div align="left">Comparison of the proposed algorithm with the state-of-the-art research</div>
 |Authors |Object |Method |mAP<br>(%) |
 |---                    |---  |---    |---        
 |([Jiang et al.,2019](https://www.sciencedirect.com/science/article/abs/pii/S0168169919309263))      |Cow  |FLYOLOv3   |90.83   
@@ -32,10 +32,10 @@
 |([Zheng et al., 2022](https://www.sciencedirect.com/science/article/abs/pii/S0168169922003064))     |Chicken  |YOLOv5   |92.36       
 |[**Ours**]      |**Chicken**  |**YOLO-Claw**   |**97.1**    
 
-* ### Performance under different lighting conditions
+* ### <div align="left">Performance under different lighting conditions</div>
 <p>
    <img width="850" src="https://github.com/PuristWu/YOLO-Claw/assets/90194261/30d0799f-db74-4861-a6a9-6d40249b29ea">
 </p>
 
-- # Notes
+- ### <div align="left">Notes</div>
 Since the software we developed is under application, the code of the source code of the peoposed YOLO-Claw will be released here after licensing.
