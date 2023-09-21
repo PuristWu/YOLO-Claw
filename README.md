@@ -18,19 +18,19 @@
 |[YOLOv6]      |93.8  |75.3   |93.9   |8.5     |36.2    |44.1    
 |[YOLOv7]      |94.0  |91.1   |93.5   |9.2    |71.2    |103.2    
 |[YOLOv8]     |95.0  |92.3   |96.3   |9.7    |21.4   |28.4    
-|[**YOLO-Claw(Ours)**]      |**95.3**  |**93.6**   |**97.1**   |**7.6**    |**12.1**   |**4.8**   
+|[**YOLO-Claw(Ours)**]      |**<ins>95.3<ins>**  |**<ins>93.6<ins>**   |**<ins>97.1<ins>**   |**<ins>7.6<ins>**    |**<ins>12.1<ins>**   |**<ins>4.8<ins>**   
 
 * ### <div align="left">Comparison of the proposed algorithm with the state-of-the-art research</div>
 |Authors |Object |Method |mAP<br>(%) |
 |---                    |---  |---    |---        
-|([Jiang et al.,2019](https://www.sciencedirect.com/science/article/abs/pii/S0168169919309263))      |Cow  |FLYOLOv3   |90.83   
-|([Wu et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S1537511019309006))      |Cow  |YOLOv3   |93.73       
-|([Kang et al., 2020](https://www.sciencedirect.com/science/article/pii/S002203022030713X))      |Cow  |RFB_Net_SSD   |87.0       
-|([Zheng et al., 2023](https://www.sciencedirect.com/science/article/abs/pii/S0168169923000066))      |Cow  |Siam-AM   |93.80   
+|([Jiang et al.,2019](https://www.sciencedirect.com/science/article/abs/pii/S0168169919309263))      |Cow  |FLYOLOv3   |<ins>90.83<ins>   
+|([Wu et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S1537511019309006))      |Cow  |YOLOv3   |<ins>93.73<ins>       
+|([Kang et al., 2020](https://www.sciencedirect.com/science/article/pii/S002203022030713X))      |Cow  |RFB_Net_SSD   |<ins>87.0<ins>       
+|([Zheng et al., 2023](https://www.sciencedirect.com/science/article/abs/pii/S0168169923000066))      |Cow  |Siam-AM   |<ins>93.80<ins>   
 |([Feuser et al., 2022](https://www.mdpi.com/2076-2615/12/20/2804))      |Horse  |Key point detection   |-       
-|([Hu et al., 2023](https://www.sciencedirect.com/science/article/abs/pii/S0168169922008687))      |Pig  |PointNet++   |91.48       
-|([Zheng et al., 2022](https://www.sciencedirect.com/science/article/abs/pii/S0168169922003064))     |Chicken  |YOLOv5   |92.36       
-|[**Ours**]      |**Chicken**  |**YOLO-Claw**   |**97.1**    
+|([Hu et al., 2023](https://www.sciencedirect.com/science/article/abs/pii/S0168169922008687))      |Pig  |PointNet++   |<ins>91.48<ins>       
+|([Zheng et al., 2022](https://www.sciencedirect.com/science/article/abs/pii/S0168169922003064))     |Chicken  |YOLOv5   |<ins>92.36<ins>       
+|[**Ours**]      |**Chicken**  |**YOLO-Claw**   |**<ins>97.1<ins>**    
 
 * ### <div align="left">Performance under different lighting conditions</div>
    <img width="850" src="https://github.com/PuristWu/YOLO-Claw/assets/90194261/30d0799f-db74-4861-a6a9-6d40249b29ea">
