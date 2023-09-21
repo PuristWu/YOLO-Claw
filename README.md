@@ -1,5 +1,6 @@
 # YOLO-Claw
 #### Thank you for your interest in our research!" Important results and source code of "YOLO-Claw: Improved YOLOv5 based on TCA and AFPN for detecting chicken claws in commercial farms" will be posted here!
+
 ## <div align="center">Basic information about the manuscript</div>
 #### "Dihua Wu; Yibin Ying; Mingchuan Zhou; Jinming Pan and Di Cui. YOLO-Claw: Improved YOLOv5 based on TCA and AFPN for detecting chicken claws in commercial farms"
 ## <div align="center">Important results</font></div>
