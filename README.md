@@ -16,13 +16,13 @@
 * ### Comparison of the proposed algorithm with the state-of-the-art research
 |Authors |Object |Method |mAP<br>(%) |
 |---                    |---  |---    |---        
-|[Jiang et al.,2019]      |Cow  |FLYOLOv3   |90.83   
-|[Wu et al., 2020]      |Cow  |YOLOv3   |93.73       
-|[Kang et al., 2020]      |Cow  |RFB_Net_SSD   |87.0       
-|[Zheng et al., 2023]      |Cow  |Siam-AM   |93.80   
-|[Feuser et al., 2022]      |Horse  |Key point detection   |-       
-|[Hu et al., 2023]      |Pig  |PointNet++   |91.48       
-|[Zheng et al., 2022]     |Chicken  |YOLOv5   |92.36       
+|([Jiang et al.,2019](https://www.sciencedirect.com/science/article/abs/pii/S0168169919309263))      |Cow  |FLYOLOv3   |90.83   
+|([Wu et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S1537511019309006))      |Cow  |YOLOv3   |93.73       
+|([Kang et al., 2020](https://www.sciencedirect.com/science/article/pii/S002203022030713X))      |Cow  |RFB_Net_SSD   |87.0       
+|([Zheng et al., 2023](https://www.sciencedirect.com/science/article/abs/pii/S0168169923000066))      |Cow  |Siam-AM   |93.80   
+|([Feuser et al., 2022](https://www.mdpi.com/2076-2615/12/20/2804))      |Horse  |Key point detection   |-       
+|([Hu et al., 2023](https://www.sciencedirect.com/science/article/abs/pii/S0168169922008687))      |Pig  |PointNet++   |91.48       
+|([Zheng et al., 2022](https://www.sciencedirect.com/science/article/abs/pii/S0168169922003064))     |Chicken  |YOLOv5   |92.36       
 |[**Ours**]      |**Chicken**  |**YOLO-Claw**   |**97.1**    
 
 * ### Performance under different lighting conditions
