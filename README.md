@@ -17,7 +17,7 @@
 |[YOLOv6]      |93.8  |75.3   |93.9   |8.5     |36.2    |44.1    
 |[YOLOv7]      |94.0  |91.1   |93.5   |9.2    |71.2    |103.2    
 |[YOLOv8]     |95.0  |92.3   |96.3   |9.7    |21.4   |28.4    
-|[**YOLO-Claw(Ours)**]      |**<ins>95.3<ins>**  |**<ins>93.6<ins>**   |**<ins>97.1<ins>**   |**<ins>7.6<ins>**    |**<ins>12.1<ins>**   |**<ins>4.8<ins>**   
+|[**YOLO-Claw(Ours)**]      |**<ins>95.3<ins>**  |**<ins>93.6<ins>**   |**<ins>97.1<ins>**   |**<ins>7.6<ins>**    |**<ins>12.1<ins>**   |**<ins>14.3<ins>**   
 
 * ### <div align="left">Comparison of the proposed algorithm with the state-of-the-art research</div>
 |Authors |Object |Method |mAP<br>(%) |
