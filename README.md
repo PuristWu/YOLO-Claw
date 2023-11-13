@@ -42,7 +42,7 @@
 * ### <div align="left">Performance under different lighting conditions</div>
 ![幻灯片7](https://github.com/PuristWu/YOLO-Claw/assets/90194261/2d486b9f-1416-4c80-a0c9-f13ceba05d0d)
 * ### <div align="left">Work accomplished and to be done</div>
-![gif](https://github.com/PuristWu/YOLO-Claw/assets/90194261/0eeb05dd-43c5-4493-8b7c-08e1e658cc45)
+![录制_2023_11_13_14_48_44_585 00_00_00-00_00_11](https://github.com/PuristWu/YOLO-Claw/assets/90194261/77f623d5-3f5c-45cd-b311-98abc2c98c6d)
 ![幻灯片14](https://github.com/PuristWu/YOLO-Claw/assets/90194261/7c29c3fb-eba2-42e8-9035-1fa1748caa2a)
 * ### <div align="left">Author info</div>
 ![幻灯片16](https://github.com/PuristWu/YOLO-Claw/assets/90194261/28b07afe-e506-4f9b-8733-e607aa0d90c8)
