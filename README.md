@@ -1,13 +1,19 @@
 # YOLO-Claw
-#### Thank you for your interest in our research!" Important results and source code of "YOLO-Claw: Improved YOLOv5 based on TCA and AFPN for detecting chicken claws in commercial farms" will be posted here!
-<div align="center">
+#### Thank you for your interest in our research!" Important results and source code of "YOLO-Claw: Enabling robust all-day claw detection on commercial layer farms" will be posted here!
    
-   <img src="https://github.com/PuristWu/YOLO-Claw/blob/main/img/YOLO-Claw.gif"><br>
 #### Note:Due to file size limitations, the longer video demos can be viewed on the following platforms:
-### [YouTube](https://youtu.be/ge_p5XMRCA0)     [Bilibili](https://www.bilibili.com/video/BV1UF411m7yN/?vd_source=dbf425d5883bb58ae44146a6ba54e40d)     [Youku](https://v.youku.com/v_show/id_XNjAzODg2MTk4NA==.html) 
+### [YouTube](https://www.youtube.com/watch?v=f_NXkoem-bc)     [Bilibili](https://www.bilibili.com/video/BV13N41137Ko/?vd_source=dbf425d5883bb58ae44146a6ba54e40d) 
 ---
 ## <div align="center">Basic information about the manuscript
-#### <div align="left">"Dihua Wu; Yibin Ying; Mingchuan Zhou; Jinming Pan and Di Cui. YOLO-Claw: Improved YOLOv5 based on TCA and AFPN for detecting chicken claws in commercial farms"</div>
+#### <div align="left">"Dihua Wu; Yibin Ying; Mingchuan Zhou; Jinming Pan and Di Cui. YOLO-Claw: Enabling robust all-day claw detection on commercial layer farms"</div>
+## <div align="center">Claw detection process and potential applications in PLF</font></div>
+![幻灯片2](https://github.com/PuristWu/YOLO-Claw/assets/90194261/ccf83bab-353e-4c29-9682-fb0b7dfd861d)
+## <div align="center">Challenges</font></div>
+![幻灯片3](https://github.com/PuristWu/YOLO-Claw/assets/90194261/c36a5f21-225d-4932-88eb-643923a41133)
+## <div align="center">Overall technical route</font></div>
+![幻灯片4](https://github.com/PuristWu/YOLO-Claw/assets/90194261/6fe666b0-5d07-4a8d-8689-1acb553bc235)
+## <div align="center">Contributions</font></div>
+![幻灯片5](https://github.com/PuristWu/YOLO-Claw/assets/90194261/0f7e761a-ccb5-420b-9c6e-1edd1a474495)
 ## <div align="center">Important results</font></div>
 
 * ### <div align="left">Performance of different object detection algorithms for chicken claw detection</div>
@@ -18,6 +24,8 @@
 |[YOLOv7]      |94.0  |91.1   |93.5   |9.2    |71.2    |103.2    
 |[YOLOv8]     |95.0  |92.3   |96.3   |9.7    |21.4   |28.4    
 |[**YOLO-Claw(Ours)**]      |**<ins>95.3<ins>**  |**<ins>93.6<ins>**   |**<ins>97.1<ins>**   |**<ins>7.6<ins>**    |**<ins>12.1<ins>**   |**<ins>14.3<ins>**   
+#### <div align="left">Grad-CAM visualization of claw detection on different object detection algorithms</div>
+![图2](https://github.com/PuristWu/YOLO-Claw/assets/90194261/877ccb1a-d326-4c10-b68e-4b965ee7182d)
 
 * ### <div align="left">Comparison of the proposed algorithm with the state-of-the-art research</div>
 |Authors |Object |Method |mAP<br>(%) |
@@ -32,7 +40,12 @@
 |[**Ours**]      |**Chicken**  |**YOLO-Claw**   |**<ins>97.1<ins>**    
 
 * ### <div align="left">Performance under different lighting conditions</div>
-   <img width="850" src="https://github.com/PuristWu/YOLO-Claw/assets/90194261/30d0799f-db74-4861-a6a9-6d40249b29ea">
+![幻灯片7](https://github.com/PuristWu/YOLO-Claw/assets/90194261/2d486b9f-1416-4c80-a0c9-f13ceba05d0d)
+* ### <div align="left">Work accomplished and to be done</div>
+![幻灯片12](https://github.com/PuristWu/YOLO-Claw/assets/90194261/1c5f2fbe-e7d1-4303-b9bb-21b21d176aa3)
+![幻灯片14](https://github.com/PuristWu/YOLO-Claw/assets/90194261/7c29c3fb-eba2-42e8-9035-1fa1748caa2a)
+* ### <div align="left">Author info</div>
+![幻灯片16](https://github.com/PuristWu/YOLO-Claw/assets/90194261/28b07afe-e506-4f9b-8733-e607aa0d90c8)
 
 * ### <div align="left">Notes</div>
 <div align="left">Since the software we developed is under application, the code of the source code of the peoposed YOLO-Claw will be released here after licensing.</div>
