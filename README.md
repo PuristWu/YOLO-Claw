@@ -48,4 +48,4 @@
 ![幻灯片16](https://github.com/PuristWu/YOLO-Claw/assets/90194261/28b07afe-e506-4f9b-8733-e607aa0d90c8)
 
 * ### <div align="left">Notes</div>
-<div align="left">Since the software we developed is under application, the code of the source code of the peoposed YOLO-Claw will be released here after licensing.</div>
+<div align="left">Since the software we developed is under application, the full source code of the peoposed YOLO-Claw will be released here after licensing.</div>
