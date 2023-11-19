@@ -45,7 +45,7 @@
 ![录制_2023_11_13_14_48_44_585 00_00_00-00_00_11](https://github.com/PuristWu/YOLO-Claw/assets/90194261/77f623d5-3f5c-45cd-b311-98abc2c98c6d)
 ![幻灯片14](https://github.com/PuristWu/YOLO-Claw/assets/90194261/7c29c3fb-eba2-42e8-9035-1fa1748caa2a)
 * ### <div align="left">Author info</div>
-![幻灯片16](https://github.com/PuristWu/YOLO-Claw/assets/90194261/28b07afe-e506-4f9b-8733-e607aa0d90c8)
+![video demo](https://github.com/PuristWu/YOLO-Claw/assets/90194261/15c51b95-ed04-4cc8-a543-5d516b1f6e63)
 
 * ### <div align="left">Notes</div>
 <div align="left">Since the software we developed is under application, the full source code of the peoposed YOLO-Claw will be released here after licensing.</div>
